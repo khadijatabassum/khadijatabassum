@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi  👋 I'm Khadija Tabassum
 
 <!--
 **khadijatabassum/khadijatabassum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a passionate Software Quality Assurance Engineer with over 2 years of hands-on experience, blending technical finesse with a keen eye for detail in the health and commerce realms. My journey has been all about ensuring impeccable software performance, whether it's enhancing patient care systems or fine-tuning e-commerce platforms.
+Expert in manual, API, performance, and database testing with a proven track record in identifying critical issues and ensuring software reliability. Skilled in automation, developing robust test scripts to streamline testing processes and enhance product quality.
 
 Here are some ideas to get you started:
 
